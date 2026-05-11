@@ -21,7 +21,7 @@
 
 
 import
-  ./opencl/[version, platform, cl]
+  ./opencl3/[version, platform, cl]
 
 export version, platform, cl
 

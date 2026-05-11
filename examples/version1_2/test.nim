@@ -1,7 +1,7 @@
 
 import
-  ../../src/opencl/[cl, platform],
-  ../../src/opencl
+  ../../src/opencl3/[cl, platform],
+  ../../src/opencl3
 
 # OpenCL kernel to perform an element-wise addition 
 const
